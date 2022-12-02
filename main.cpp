@@ -12,5 +12,7 @@ if ( a == true){
 else {
     cout<<"numero non primo";
     
+    
+    
 }
 }
